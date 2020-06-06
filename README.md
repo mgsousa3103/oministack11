@@ -35,9 +35,11 @@ Be The Hero
 2. Run `yarn` to install dependencies
 3. Run `yarn start` to start the server
 
-1) Move yourself to the frontend folder: `cd frontend`
-2) Run `yarn` to install dependencies
-3) Run `yarn start` to start the web application
+#### Getting started with frontend app
+
+1. Move yourself to the frontend folder: `cd frontend`
+2. Run `yarn` to install dependencies
+3. Run `yarn start` to start the web application
 
 ## License
 
